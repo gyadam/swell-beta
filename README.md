@@ -1,5 +1,5 @@
 # SwellBeta
-Swell forecast app for Black Sands Beach, CA
+Rock climbing condition forecast app for Ocean Beach and Black Sands Beach
 
 SwellBeta is an app I created to enable users to view tide levels and swell heights for two popular beaches in the SF Bay Area (Ocean Beach and Black Sands Beach). Both beaches have rock climbing areas which are water level dependant, and the app makes it very easy to check if the conditions are ideal to go rock climbing.
 
