@@ -9,4 +9,4 @@ The app pulls data from the following APIs:
 
 The app was built in Android Studio using Flutter and Dart, and deployed to a Samsung A20 smartphone.
 
-![Screenshot of the app](/images/screenshot.jpg)
+![Screenshot of the app](/images/screenshot.jpg =200x)
